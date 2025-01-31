@@ -1,4 +1,9 @@
 https://kalendarz-next.web.app         -   wersja LIVE
+testowe konto:
+Email: testowy@gmail.com
+Hasło: Testowy123
+
+
 
 Aplikacja posiada 3 glowne przyciski
 
