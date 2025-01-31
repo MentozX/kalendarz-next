@@ -1,4 +1,4 @@
-https://kalendarz-next.web.app/calendar         -   wersja LIVE
+https://kalendarz-next.web.app         -   wersja LIVE
 
 Aplikacja posiada 3 glowne przyciski
 
