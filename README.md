@@ -1,3 +1,5 @@
+https://kalendarz-next.web.app/calendar         -   wersja LIVE
+
 Aplikacja posiada 3 glowne przyciski
 
 Kalendarz - odpowiedzialny za przeniesienie uzytkownika do kalendarza 
